@@ -56,7 +56,7 @@ export default function ChatPage() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'Authorization': 'Bearer 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',
+          'Authorization': '',
           'HTTP-Referer': 'http://localhost:3000',
           'X-Title': 'Diabito Chat'
         },
